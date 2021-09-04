@@ -3,10 +3,10 @@
  * @Date: 2021-09-04 13:29:53
  * @Description: 
  * @LastEditor: wei_qx
- * @LastEditTime: 2021-09-04 16:35:25
+ * @LastEditTime: 2021-09-04 16:42:44
  */
 module.exports = {
-  base: '/pray-wind/',
+  base: '/',
   title: 'pray-wind',
   description: 'praywind‘s blog',
   themeConfig: {
