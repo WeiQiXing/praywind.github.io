@@ -3,14 +3,15 @@
  * @Date: 2021-09-04 13:29:53
  * @Description: 
  * @LastEditor: wei_qx
- * @LastEditTime: 2021-09-04 16:42:44
+ * @LastEditTime: 2021-09-04 17:32:16
  */
 module.exports = {
   base: '/',
+  lang: 'zh-CN',
   title: 'pray-wind',
   description: 'praywind‘s blog',
   themeConfig: {
-    repo: 'https://wei-qx.github.io/',
+    repo: 'https://github.com/wei-qx/wei-qx.github.io',
     // https://wei-qx.github.io
     repoLabel: 'My GitHub',
     nav: [
