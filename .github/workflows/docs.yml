@@ -50,7 +50,7 @@ jobs:
       
 
       - name: Deploy to GitHub Pages
-        uses: wei-qx/wei-qx.github.io@v2
+        uses: wei-qx/wei-qx.github.io
         with:
           # 部署到 gh-pages 分支
           target_branch: gh-pages
