@@ -50,7 +50,7 @@ jobs:
       
 
       - name: Deploy to GitHub Pages
-        uses: wei-qx/wei-qx.github.io
+        uses: crazy-max/ghaction-github-pages@v2
         with:
           # 部署到 gh-pages 分支
           target_branch: gh-pages
